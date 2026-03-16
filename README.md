@@ -66,7 +66,7 @@ response = agent.query("What are the similarities in DOC1,DOC2 and DOC3")
 print(str(response))
 ```
 ### OUTPUT:
-
+![image alt](https://github.com/Ragasusanth/genai-multidoc-retrieval/blob/943966c500681de87c9173a2b4439758fad5c793/EX%2004%20FOR%20GEN%20AI.png)
 
 ### RESULT:
 The multidocument retrieval agent was successfully implemented using LlamaIndex. The system efficiently retrieved relevant information from multiple documents and provided concise, accurate answers to user queries.
